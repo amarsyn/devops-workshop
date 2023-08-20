@@ -1,12 +1,12 @@
 [jenkins-master]
-54.221.20.9
+54.91.178.223
 
 [jenkins-master:vars]
 ansible_user=ubuntu
 ansible_ssh_private_key_file=/opt/dpp.pem
 
 [jenkins-slave]
-3.88.200.121
+18.207.123.29
 
 [jenkins-slave:vars]
 ansible_user=ubuntu
